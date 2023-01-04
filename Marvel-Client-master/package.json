@@ -8,7 +8,7 @@
     "rc-pagination": "^1.17.8",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
-    "react-scripts": "2.1.8",
+    "react-scripts": "5.0.1",
     "request": "^2.88.0"
   },
   "scripts": {
